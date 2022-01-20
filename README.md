@@ -47,7 +47,7 @@ Now let's open an additional command line so we can run our back-end code in Nod
 
 # API Routes
 
-We have several API routes, so let's go over all of our CRUD operations.
+We have several API routes, so let's go over all of our CRUD operations. Open up Postman.
 
 Let's add some items into our inventory. 
 
