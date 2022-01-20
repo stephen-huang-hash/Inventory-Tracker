@@ -33,7 +33,7 @@ Enter "CREATE DATABASE inventorytracker;" Don't forget to include the semicolon 
 
 Keep in mind that the default PostgreSQL port is 5432.
 
-We will also be using Postman as an API Platform, although you can choose any API platform that you prefer. Let's [sign up and create an account](https://www.postman.com/downloads/).
+We will also be using Postman as an API Platform, although you can choose any API platform that you prefer. Let's [sign up and create an account](https://www.postman.com/postman-account/).
 
 A web version is available but I recommend downloading it as it's available for MacOS, Windows, and Linux. Download [here](https://www.postman.com/downloads/).
 
