@@ -30,7 +30,7 @@ router.post('/', async (req, res, next) => {
   }
 })
 
-router.put('/:id', async (req, res, next) => {
+router.patch('/:id', async (req, res, next) => {
   try {
     const {sku, name, price, quantity, sold, warehouseId} = req.body;
     const item = await Item.findByPk(req.params.id)
