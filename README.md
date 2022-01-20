@@ -73,7 +73,7 @@ We get an array with all of the items we've created so far!
 
 **PATCH http://localhost:8080/api/items/:id will adjust an item in our inventory.**
 
-It looks like we've forgotten to add a space in our item with the name "megatowel". Let's fix that real quick. We want to change our item with the primary id of 1. The id will be dependent on which item you want to change.
+It looks like we've forgotten to add a space in our item with the name "megatowel". Let's fix that real quick and name it "big towel" instead. We want to change our item with the primary id of 1. The id will be dependent on which item you want to change.
 
 Select PATCH, insert our api route http://localhost:8080/api/items/1, and let's update our name field.
 
